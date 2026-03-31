@@ -24,7 +24,6 @@ Clone the repository (make sure you have git installed)
 
 > - gamebytes/
 >   - index.html
->   - style.css
 >   - main.js -> main screen, open up engine or editor from here
 >   - engine/
 >       - runtime.js -> complies the block code
