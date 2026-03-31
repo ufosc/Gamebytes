@@ -17,7 +17,7 @@ Welcome to Gamebytes, a fantasy console inspired by the Gameboy built with HTML,
 
 ## Install:
 Clone the repository (make sure you have git installed)
-'git clone https://github.com/ufosc/Gamebytes.git'
+`git clone https://github.com/ufosc/Gamebytes.git`
 
 
 ## Project Structure:
